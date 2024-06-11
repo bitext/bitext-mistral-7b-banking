@@ -1,0 +1,6 @@
+<s>[INST] I wantto transfer money, can you help me make a bank transfer? [/INST]
+<s>[INST] I have to check the loan payments, where coud I do it? [/INST]
+<s>[INST] there is a withdrawal  i did not make [/INST]
+<s>[INST] i dont recognise a transaction how do i do it [/INST]
+<s>[INST] I need assitsance calling customer support [/INST]
+<s>[INST] I want to make a fucking bank transfer to someone , how could I do it? [/INST]
