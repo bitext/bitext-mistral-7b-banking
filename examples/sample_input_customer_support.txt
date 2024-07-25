@@ -1,0 +1,6 @@
+<s>[INST] I need to cancel purchase {{Order Number}} [/INST]
+<s>[INST] remove an item from purchase {{Order Number}} [/INST]
+<s>[INST] tell available payment modalities [/INST]
+<s>[INST] how do I speak with customer support? [/INST]
+<s>[INST] where do I report an issue with payments ? [/INST]
+<s>[INST] where do i recover the pin of my profile [/INST]
